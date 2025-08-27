@@ -1,2 +1,2 @@
-# Cursos-Alura
-Atividades realizadas em cursos da Alura
+# Visão-Computacional
+Visão computacional com OpenCV
